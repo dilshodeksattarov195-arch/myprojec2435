@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessiondpdate",
+        "uuid": 7923490,
+        "checksum": "58ge2g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
